@@ -1,0 +1,4 @@
+https://www.fcreyf.com/article/mp3-decoding-in-c++
+http://blog.bjrn.se/2008/10/lets-build-mp3-decoder.html
+
+probably also implementations in Python, C++ etc etc
